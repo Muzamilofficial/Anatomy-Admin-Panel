@@ -13,6 +13,12 @@ npm install
 npm run dev
 ```
 
+### 2️⃣ Setting Up the Environment
+```bash
+npm install
+npm run dev
+```
+
 ## 🚀 Run and Enjoy!
 1. Mobile App: Use Expo Go or an emulator to preview.
 2. Admin Panel: Visit http://localhost:3000 or Zaibten Admin Panel.
