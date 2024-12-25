@@ -26,7 +26,8 @@ cd anatomy-app/admin-panel
 For questions or feedback, feel free to reach out at **muzamilkhanofficials@gmail.com**
 .
 # 📸 Some Screenshots of the Project 🖼️✨
-![image](https://github.com/user-attachments/assets/f3a10a5a-6139-4d1e-9d43-7e6c7ecaed5f)
+![image](https://github.com/user-attachments/assets/596adf48-e2ff-4e96-98ce-b21b4dc6f5f7)
+
 
 
 
