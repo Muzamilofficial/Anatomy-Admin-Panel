@@ -21,7 +21,7 @@ npm run dev
 
 ### 3️⃣ Check Live Admin Panel
 ```bash
-[Zaibten Admin Panel](https://zaibtenbioscope.vercel.app/)
+https://zaibtenbioscope.vercel.app/
 ```
 
 ## 🚀 Run and Enjoy!
