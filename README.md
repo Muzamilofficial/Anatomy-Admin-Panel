@@ -19,6 +19,11 @@ npm install
 npm run dev
 ```
 
+### 3️⃣ Check Live Admin Panel
+```bash
+[Zaibten Admin Panel](https://zaibtenbioscope.vercel.app/)
+```
+
 ## 🚀 Run and Enjoy!
 1. Mobile App: Use Expo Go or an emulator to preview.
 2. Admin Panel: Visit http://localhost:3000 or Zaibten Admin Panel.
