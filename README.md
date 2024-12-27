@@ -9,7 +9,19 @@ This is the Admin Panel for the Anatomy App, built using Node.js and React.js. T
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Muzamilofficial/anatomy-app.git
-cd anatomy-app/admin-panel
+npm install
+npm run dev
+```
+
+### 2️⃣ Setting Up the Environment
+```bash
+npm install
+npm run dev
+```
+
+### 3️⃣ Check Live Admin Panel
+```bash
+https://zaibtenbioscope.vercel.app/
 ```
 
 ## 🚀 Run and Enjoy!
@@ -26,6 +38,11 @@ cd anatomy-app/admin-panel
 For questions or feedback, feel free to reach out at **muzamilkhanofficials@gmail.com**
 .
 # 📸 Some Screenshots of the Project 🖼️✨
+![image](https://github.com/user-attachments/assets/dbb346a2-9847-4ea2-b666-e3309045588e)
+
+
+
+
 
 
 
